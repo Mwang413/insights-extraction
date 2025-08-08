@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+vaderSentiment
+plotly
+seaborn
+ipykernel
+# Add other packages as needed
