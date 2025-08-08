@@ -6,4 +6,5 @@ vaderSentiment
 plotly
 seaborn
 ipykernel
+openai
 # Add other packages as needed
